@@ -1,0 +1,157 @@
+<experiment>
+  <configHash>1c3847bbf833175a17a4415a6cc7e020</configHash>
+  <outputDir>/home/luuk/android-runner/examples/batterystats/output/2020.04.30_132845/</outputDir>
+  <runsToRun/>
+  <runsDone>
+    <run runId="0">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="4">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="5">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="6">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="7">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="8">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="10">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="11">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="12">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="13">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="14">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="15">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="16">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="17">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="18">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="19">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="20">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>21</runCount>
+    </run>
+    <run runId="21">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>22</runCount>
+    </run>
+    <run runId="22">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>23</runCount>
+    </run>
+    <run runId="23">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>24</runCount>
+    </run>
+    <run runId="24">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>25</runCount>
+    </run>
+    <run runId="25">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>26</runCount>
+    </run>
+    <run runId="26">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>27</runCount>
+    </run>
+    <run runId="27">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>28</runCount>
+    </run>
+    <run runId="28">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>29</runCount>
+    </run>
+    <run runId="29">
+      <device>nexus5x</device>
+      <path>android-runner/examples/batterystats/e.www.speakertest.apk</path>
+      <runCount>30</runCount>
+    </run>
+  </runsDone>
+</experiment>
