@@ -6,7 +6,7 @@ For the experiment, 15 benchmark apps were used. Each benchmark app tests a diff
 
 Android Runner is used to conduct the experiment. Every benchmark app and intensity combination is run for 3 minutes and is then automatically stopped after this period by Android Runner. Each run is replicated 30 times with 2 minutes between each run, in order to account for the fluidity of energy consumption as a measure.
 
-The raw results of the experiment can be found in the [Raw Results](/Raw Results) folder. The processed results can be found in the [Processed Results](/Processed Results) folder.
+The raw results of the experiment can be found in the [Raw Results](/Raw%20Results) folder. The processed results can be found in the [Processed Results](/Processed%20Results) folder.
 
 ## Reproduction
 Before reproduction, the experiments can only be conducted on linux distributions (preferably Ubuntu). The experiments can be replicated by following these steps:
@@ -25,11 +25,11 @@ Before reproduction, the experiments can only be conducted on linux distribution
 * The following steps need to be done for every experiment:
   1. Add APK to batterystats folder: this can be done by building a project from Android Studio and moving the APK file to `android-runner/examples/batterystats`. Rename the apk so that it conforms to this template `%PACKAGE NAME%.apk`. For example, the baseline app needs to be named `e.www.baseline.apk`.
   2. Add APK to config.json: this can be done by opening config.json in the `android-runner/examples/batterystats` folder with a text editor and set `"paths" : [ "%DEFAULT PATH%" ]` to the path of your APK file. Since we placed the APK in the same folder, we can simply add `"android-runner/examples/batterystats/%APK NAME%.apk"` as our path.
-  3. ON THE FIRST EXPERIMENT: when you alter the config.json file for the first time, you have to alter some lines. Make sure that `"replications" : 30`. Replace the default device in `"devices" : { "%DEFAULT DEVICE%": {} }` with your own device, remember to use the same name as you have entered in the devices.json file. Set `"duration" : 180000` and `"time_between_run" : 120000`. The Config file used for this experiment can also be found in the [Config](/Android Runner Config) folder of this repository. 
+  3. ON THE FIRST EXPERIMENT: when you alter the config.json file for the first time, you have to alter some lines. Make sure that `"replications" : 30`. Replace the default device in `"devices" : { "%DEFAULT DEVICE%": {} }` with your own device, remember to use the same name as you have entered in the devices.json file. Set `"duration" : 180000` and `"time_between_run" : 120000`. The Config file used for this experiment can also be found in the [Config](/Android%20Runner%20Config) folder of this repository. 
   4. Start the experiment: open a Terminal and run `python3 android-runner android-runner/examples/batterystats/config.json` to start the experiment. Keep in mind that the experiment takes 2,5 hours to complete. You can find your results in the `android-runner/examples/batterystats/output` folder.
 
 ## Data analysis
-In the Processed Excel files in the [Processed Results](/Processed Results) folder, the following steps are taken to analyse the data:
+In the Processed Excel files in the [Processed Results](/Processed%20Results) folder, the following steps are taken to analyse the data:
 1. All raw results of the benchmark app are entered in the file.
 2. Basic measures like min, max, mean, etc. are calculated.
 3. Scatter plots are used to plot the variance.
