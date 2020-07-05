@@ -1,0 +1,413 @@
+<experiment>
+  <configHash>bac5aab51b172e2fa63ba4f8379bef19</configHash>
+  <outputDir>/home/exz1199/Documents/Thesis/androidrunner/android-runner/examples/monsoon/output/2020.06.29_100619/</outputDir>
+  <runsToRun>
+    </runsToRun>
+  <runsDone>
+    <run runId="20">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_Medium_Frequency/e.www.cameratest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="54">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Magnetic_Field/e.www.magneticfieldtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="76">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_Low_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="48">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_Medium_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="4">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Baseline/e.www.baseline.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="19">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_Medium_Frequency/e.www.cameratest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="57">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Microphone/e.www.microphonetest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="31">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Display/e.www.displaytest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="66">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_High_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="37">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_Medium_Frequency/e.www.gpstest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="75">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_Low_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="10">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Ambient_Light/e.www.ambientlighttest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="3">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Baseline/e.www.baseline.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="40">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_Low_Frequency/e.www.gpstest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="15">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_Low_Frequency/e.www.cameratest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="49">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_Medium_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="61">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_Low_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="43">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Gravity/e.www.gravitytest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="36">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_Medium_Frequency/e.www.gpstest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="35">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_High_Frequency/e.www.gpstest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="21">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_High_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="41">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_Low_Frequency/e.www.gpstest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="2">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Gyroscope/e.www.gyroscopetest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="26">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_Medium_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="77">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_Low_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="44">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Gravity/e.www.gravitytest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="62">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_Low_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="46">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_High_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="27">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_Low_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="9">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Ambient_Light/e.www.ambientlighttest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="34">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_High_Frequency/e.www.gpstest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="72">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_Medium_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="42">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Gravity/e.www.gravitytest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="45">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_High_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>1</runCount>
+    </run>
+  <run runId="22">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_High_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="39">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_Low_Frequency/e.www.gpstest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="80">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Speaker/e.www.speakertest.apk</path>
+      <runCount>3</runCount>
+    </run>
+  <run runId="32">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Display/e.www.displaytest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="12">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_High_Frequency/e.www.cameratest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="23">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_High_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="8">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Accelerometer/e.www.accelerometertest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="13">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_High_Frequency/e.www.cameratest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="17">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_Low_Frequency/e.www.cameratest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="55">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Magnetic_Field/e.www.magneticfieldtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="30">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Display/e.www.displaytest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="5">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Baseline/e.www.baseline.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="60">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_Low_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="6">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Accelerometer/e.www.accelerometertest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="38">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_Medium_Frequency/e.www.gpstest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="56">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Magnetic_Field/e.www.magneticfieldtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="51">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_Low_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="79">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Speaker/e.www.speakertest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="18">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_Medium_Frequency/e.www.cameratest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="69">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_High_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="50">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_Medium_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="78">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Speaker/e.www.speakertest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="33">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/GPS_High_Frequency/e.www.gpstest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="53">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_Low_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="68">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_High_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="47">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_High_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="65">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_Medium_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="74">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_Medium_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="24">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_Medium_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="25">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_Medium_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="1">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Gyroscope/e.www.gyroscopetest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="28">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_Low_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="14">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_High_Frequency/e.www.cameratest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="16">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Camera_Low_Frequency/e.www.cameratest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="67">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_High_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="64">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_Medium_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="70">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_High_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="29">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Cpu_Low_Frequency/e.www.cpufactorialtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="58">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Microphone/e.www.microphonetest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="0">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Gyroscope/e.www.gyroscopetest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="73">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_Medium_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="59">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Microphone/e.www.microphonetest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="7">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Accelerometer/e.www.accelerometertest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="71">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Room_Database_High_Frequency/e.www.writeroomtest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="11">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Ambient_Light/e.www.ambientlighttest.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="63">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Networking_Medium_Frequency/e.www.httpsrequesttest.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="52">
+      <device>nexus5x</device>
+      <path>../apps/BachelorProject/Replication/Apps/Local_Storage_Low_Frequency/e.www.writelocaltest.apk</path>
+      <runCount>2</runCount>
+    </run>
+    </runsDone>
+</experiment>

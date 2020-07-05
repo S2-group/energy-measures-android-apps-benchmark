@@ -3,7 +3,7 @@ library(plotly)
 library(IRdisplay)
 
 data <- Local_Storage_Raw
-data$Phone <- factor(data$Phone, levels=c("Mi 9T", "Nexus 5X"))
+data$Phone <- factor(data$Phone, levels=c("Mi 9T", "Nexus 5X", "Nexus 5X Monsoon"))
 
 # Violin plot with ggplot2
 p <- data %>% ggplot(aes(x=Phone, y =Joule))  + 

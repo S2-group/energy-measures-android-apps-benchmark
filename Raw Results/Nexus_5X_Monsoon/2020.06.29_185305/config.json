@@ -1,0 +1,58 @@
+{
+  "type": "native",
+  "devices": {
+    "nexus5x": {
+      "power_device": "/home/exz1199/Documents/Thesis/androidrunner/android-runner/AndroidRunner/Plugins/monsoon/Script/power_device.py",
+      "device_settings_reqs": {"e.www.gyroscopetest": ["location_high_accuracy"], "e.www.accelerometertest": ["location_high_accuracy"],
+                         "e.www.gpstest": ["location_high_accuracy"], "e.www.gravitytest": ["location_high_accuracy"],
+                         "e.www.magneticfieldtest": ["location_high_accuracy"]
+                        }
+    }
+  },
+  "clear_data": true,
+  "repetitions": 3,
+  "duration": 180000,
+  "paths": [
+  "../apps/BachelorProject/Replication/Apps/Gyroscope/e.www.gyroscopetest.apk",
+   "../apps/BachelorProject/Replication/Apps/Baseline/e.www.baseline.apk",
+   "../apps/BachelorProject/Replication/Apps/Accelerometer/e.www.accelerometertest.apk",
+   "../apps/BachelorProject/Replication/Apps/Ambient_Light/e.www.ambientlighttest.apk",
+   "../apps/BachelorProject/Replication/Apps/Camera_High_Frequency/e.www.cameratest.apk",
+   "../apps/BachelorProject/Replication/Apps/Camera_Low_Frequency/e.www.cameratest.apk",
+   "../apps/BachelorProject/Replication/Apps/Camera_Medium_Frequency/e.www.cameratest.apk",
+   "../apps/BachelorProject/Replication/Apps/Cpu_High_Frequency/e.www.cpufactorialtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Cpu_Medium_Frequency/e.www.cpufactorialtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Cpu_Low_Frequency/e.www.cpufactorialtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Display/e.www.displaytest.apk",
+   "../apps/BachelorProject/Replication/Apps/GPS_High_Frequency/e.www.gpstest.apk",
+   "../apps/BachelorProject/Replication/Apps/GPS_Medium_Frequency/e.www.gpstest.apk",
+   "../apps/BachelorProject/Replication/Apps/GPS_Low_Frequency/e.www.gpstest.apk",
+   "../apps/BachelorProject/Replication/Apps/Gravity/e.www.gravitytest.apk",
+   "../apps/BachelorProject/Replication/Apps/Local_Storage_High_Frequency/e.www.writelocaltest.apk",
+   "../apps/BachelorProject/Replication/Apps/Local_Storage_Medium_Frequency/e.www.writelocaltest.apk",
+   "../apps/BachelorProject/Replication/Apps/Local_Storage_Low_Frequency/e.www.writelocaltest.apk",
+   "../apps/BachelorProject/Replication/Apps/Magnetic_Field/e.www.magneticfieldtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Microphone/e.www.microphonetest.apk",
+   "../apps/BachelorProject/Replication/Apps/Networking_Low_Frequency/e.www.httpsrequesttest.apk",
+   "../apps/BachelorProject/Replication/Apps/Networking_Medium_Frequency/e.www.httpsrequesttest.apk",
+   "../apps/BachelorProject/Replication/Apps/Networking_High_Frequency/e.www.httpsrequesttest.apk",
+   "../apps/BachelorProject/Replication/Apps/Room_Database_High_Frequency/e.www.writeroomtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Room_Database_Medium_Frequency/e.www.writeroomtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Room_Database_Low_Frequency/e.www.writeroomtest.apk",
+   "../apps/BachelorProject/Replication/Apps/Speaker/e.www.speakertest.apk"
+ ],
+  "profilers":{
+    "monsoon": {
+        }
+  },
+  "scripts": {
+    "before_experiment": "Scripts/before_experiment.py",
+    "before_run": "Scripts/before_run.py",
+    "after_launch": "Scripts/after_launch.py",
+    "before_close": "Scripts/before_close.py",
+    "after_run": "Scripts/after_run.py",
+    "after_experiment": "Scripts/after_experiment.py"
+  },
+  "time_between_run": 120000,
+  "randomization": true
+}
